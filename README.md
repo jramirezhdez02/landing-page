@@ -1,0 +1,1 @@
+In this project I create from scratch a basic webpage using html and CSS. The main goal is to prove the habilities adquired during the CSS foundations part of the course.
